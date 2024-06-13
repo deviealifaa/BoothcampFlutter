@@ -1,2 +1,0 @@
-# BoothcampFlutter
-Tugas Boothcamp
